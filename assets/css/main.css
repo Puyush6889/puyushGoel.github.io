@@ -2018,6 +2018,21 @@
 			text-align: center;
 		}
 
+        a.icon.fa-twitter {
+            color: #55ACEE;
+        }
+        a.icon.fa-facebook{
+            color: #3B5998
+        }
+        a.icon.fa-github{
+            color: #444444;
+        }
+        a.icon.fa-linkedin{
+            color: #007BB6;
+        }
+        a.icon.fa-envelope{
+            color: #2672EC;
+        }
 			#header .icons a {
 				/*color: #41484c;*/
 				-moz-transition: color 0.35s ease-in-out;
