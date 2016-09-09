@@ -517,7 +517,7 @@ ol.type li a:hover {
 	color: #629ca7;
 	font-size: 20px;
 }
-.timeline .timeline-body>p, .timeline .timeline-body>ul {
+.timeline .timeline-body> iframe,p, .timeline .timeline-body>ul  {
 	margin-bottom: 0;
 }
 /* Contact Section */
